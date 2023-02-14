@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Tarragona_zones_centroides",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ZONA": "2.1" }, "geometry": { "type": "Point", "coordinates": [ 0.889290841990165, 41.060779219385822 ] } },
+{ "type": "Feature", "properties": { "ZONA": "2.2" }, "geometry": { "type": "Point", "coordinates": [ 0.821172492319263, 41.220086545818795 ] } },
+{ "type": "Feature", "properties": { "ZONA": "1" }, "geometry": { "type": "Point", "coordinates": [ 1.159561333345541, 41.152676596396638 ] } },
+{ "type": "Feature", "properties": { "ZONA": "2.3" }, "geometry": { "type": "Point", "coordinates": [ 1.193101531969847, 41.429505314434195 ] } },
+{ "type": "Feature", "properties": { "ZONA": "2.4" }, "geometry": { "type": "Point", "coordinates": [ 1.416414342112692, 41.294581808862269 ] } }
+]
+}
